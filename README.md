@@ -8,6 +8,7 @@ To watch the <a href=""> Demo </a> <br>
 ## Overview
 
 - Users can view and apply to job postings, and find applied to jobs on their personal profile
+- Users can view the details of companies who posted jobs, and all jobs posted from a company
 - Users have full CRUD capabilities on their own account
 
 ## GIFs
