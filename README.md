@@ -25,3 +25,7 @@ To watch the <a href=""> Demo </a> <br>
 | Edit Profile and Apply to Job Postings |
   
 </div>
+
+## Credits
+
+Developed with Kevin Nielsen and Christian Stringham
