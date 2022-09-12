@@ -3,7 +3,7 @@
 A React/Rails web application for job searching.
 <br>
 <br>
-To watch the <a href=""> Demo </a> <br>
+To watch the <a href="https://www.loom.com/share/ca69e8a0b36b474b8666c6072445e704"> Demo </a> <br>
 
 ## Overview
 
