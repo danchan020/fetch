@@ -29,4 +29,4 @@ To watch the <a href="https://www.loom.com/share/ca69e8a0b36b474b8666c6072445e70
 
 ## Credits
 
-Developed with Kevin Nielsen and Christian Stringham
+Developed with Kevin Nielsen and Christian Stringham -
